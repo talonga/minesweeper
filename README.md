@@ -38,3 +38,5 @@ e.g. mineIndex = random.sample(list(range(0, self.rows*self.cols-1)), self.numMi
 5) Finally, the fact that is it 'pythonic' to let try/except clauses handle LOTS of things, "easier to ask forgiveness than permission" i quote, from here : https://stackoverflow.com/questions/3501382/checking-whether-a-variable-is-an-integer-or-not
 
 I use it to forgo checks where inputs are not in the required structure, are not integers, and also if array indices are out of bounds. Pretty useful and certainly convenient.
+
+So learnt quite a few things by just sitting down, writing code for an hour and looking up stackoverflow!
