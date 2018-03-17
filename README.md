@@ -39,4 +39,8 @@ e.g. mineIndex = random.sample(list(range(0, self.rows*self.cols-1)), self.numMi
 
 I use it to forgo checks where inputs are not in the required structure, are not integers, and also if array indices are out of bounds. Pretty useful and certainly convenient.
 
+Besides, it was also opportunity to use some syntax I recall from previous learning e.g. the // operator is a divide and floor operator which is useful when working with integers.
+
+e.g. self.numMines = (self.rows*self.cols)//4 #decide how many mines
+
 So learnt quite a few things by just sitting down, writing code for an hour and looking up stackoverflow!
